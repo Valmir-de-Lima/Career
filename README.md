@@ -1,2 +1,2 @@
 # Career
-This is my career repository
+This is my career repository.
